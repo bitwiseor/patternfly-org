@@ -11,6 +11,6 @@ A **label** highlights an element on a page to draw attention to it or make it m
 
 The following props/attributes have been added for you or are customizable in PatternFly:
 
-| React component | React prop | Which HTML element it appears on in markup | Explanation | 
+| React prop | React component that it should be applied to | Which HTML element it appears on in markup | Reason used |
 |---|---|---|---|
 | Label | closeBtnProps | .pf-c-label | Customize the props on the close button of the label. For example, to change the `aria-label`, pass `closeBtnProps={{'aria-label': 'new label'}}` to the Label component. |
